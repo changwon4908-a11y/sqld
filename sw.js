@@ -1,5 +1,5 @@
 // 내용을 고치면 VERSION 숫자를 올려야 폰에 새 버전이 반영됩니다.
-const VERSION = 'sqld-v4';
+const VERSION = 'sqld-v5';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
